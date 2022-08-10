@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import QuoteForm from "../components/quotes/QuoteForm";
 
 const NewQuotes = (props) => {
